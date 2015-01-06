@@ -1,5 +1,5 @@
 //
-// $Id$
+// JavaScript Tetris, using simple divs for drawing.
 //
 
 var TETRIS = {};
